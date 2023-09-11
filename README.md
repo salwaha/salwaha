@@ -1,3 +1,5 @@
+![Opening Github](https://github.com/salwaha/File-Opening/assets/111429252/273e1e4c-7a7e-42b0-afc6-869754fa65fd)
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hello There!!! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
 My name is Salwa Hayati, an undergraduate Geophysics student at Gadjah Mada University. 
 
