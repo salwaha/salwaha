@@ -7,7 +7,7 @@ My name is Salwa Hayati, an undergraduate Geophysics student at Gadjah Mada Univ
 
 - 🌄 I'm currently learning geoscience
 - 🎨 I'm currently working while exploring more knowledge about graphic design 
-- 💻 I'm trying to learn Python programm language
+- 💻 I'm trying to learn Python programming language
 - 😺 I often brought cat food on my bag, so I can give them food while talk to them 
 
 
