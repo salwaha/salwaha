@@ -3,12 +3,17 @@
 <br>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hello There!!! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
+
 My name is Salwa Hayati, an undergraduate Geophysics student at Gadjah Mada University. 
 
 - 🌄 I'm currently learning geoscience
 - 🎨 I'm currently working while exploring more knowledge about graphic design 
 - 💻 I'm trying to learn Python programming language
 - 😺 I often brought cat food on my bag, so I can give them food while talk to them 
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=Sekarayyw&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 💻 Frequently used :
